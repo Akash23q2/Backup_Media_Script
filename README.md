@@ -16,7 +16,7 @@ This Python script is designed to help you back up media files from your source 
 
 ## Usage
 
-1. Place the script in the directory where you want to back up your media files.
+1. Place the script in the directory in your main storage outside any folder for max coverage.
 
 2. Open a terminal/command prompt and navigate to the directory containing the script.
 
